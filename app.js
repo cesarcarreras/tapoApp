@@ -1,15 +1,15 @@
 import data from "./test-data.json" assert { type: "json" };
 
-const loader = document.getElementById("loader-container");
+var loader = document.getElementById("loader-container");
 
 window.addEventListener("load", () => {
   loader.style.display = "none";
 });
 
-const appendData = (data) => {
-  const mainContainer = document.getElementById("myData");
+function appendData(data){
+  var mainContainer = document.getElementById("myData");
   for (let i = 0; i < data.length; i++) {
-    const div = document.createElement("div");
+    var div = document.createElement("div");
     div.innerHTML = `
                        <div class="col d-flex flex-column p-2 align-items-center">
                           <a href="${data[i].link}">
