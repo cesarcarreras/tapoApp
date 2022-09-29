@@ -9,7 +9,7 @@ async function appendData() {
   for (var i = 0; i < data.length; i++) {
     var div = document.createElement("div");
     div.innerHTML = `
-                       <div class="col d-flex flex-column p-2 align-items-center">
+                       <div class="col d-flex flex-column p-3 align-items-center">
                           <a href="${data[i].link}">
                             <img src="${data[i].image}" class="img-thumbnail border-0 hover-img" alt="${data[i].name} image" />
                           </a>
