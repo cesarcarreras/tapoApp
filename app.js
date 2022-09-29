@@ -2,7 +2,7 @@ import data from "./test-data.json" assert { type: "json" };
 
 var loader = document.getElementById("loader-container");
 
-window.addEventListener("load", () => {
+window.addEventListener("load", function(){
   loader.style.display = "none";
 });
 
