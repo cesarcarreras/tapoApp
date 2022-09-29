@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+#loader-container {
+  display: flex;
+  justify-content: center;
+  background: #fff;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+.img-loader {
+  width: 400px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10vh;
+  padding-top: 1vh;
+  min-height: 100vh;
+}
+
+.profile-body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 417px;
+  background: #fff;
+}
+
+.cover {
+  position: absolute;
+  display: flex;
+  width: 417px;
+  height: 201px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.cover img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  padding: 0 20px;
+}
+
+.profile-img {
+  position: absolute;
+  border-radius: 50%;
+  width: 193px;
+  height: 193px;
+  overflow: hidden;
+  margin-top: 90px;
+}
+
+.profile-img img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.content-profile {
+  padding-top: 65%;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-profile .content-details {
+  padding: 10px 30px 10px 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.content-profile .content-details h3 {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #000;
+  line-height: 1.2em;
+}
+
+.content-profile .content-details h3 span {
+  font-size: 0.9em;
+  font-weight: 500;
+  opacity: 0.5;
+}
+
+.content-profile .content-details p {
+  font-size: 0.9em;
+  font-weight: 400;
+  color: #555;
+}
+
+.content-profile .content-details .actionBtns {
+  margin: -70px -10px 40px -10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-profile .content-details .actionBtns img {
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+.content-profile .content-details .actionBtns img:hover {
+  transform: scale(1.10);
+}
+
+.hover-img {
+  transition: transform 0.5s;
+}
+
+.hover-img:hover {
+  transform: scale(1.10);
+}

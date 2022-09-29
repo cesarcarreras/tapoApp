@@ -1,0 +1,154 @@
+{
+  "data": [
+        {
+            "image" : "./assets/icons/ig.svg",
+            "link" : "https://instagram.com",
+            "name" : "Instagram"
+        },
+        {
+            "image" : "./assets/icons/in.svg",
+            "link" : "https://linkedin.com",
+            "name" : "Linkedin"
+        },
+        {
+            "image" : "./assets/icons/fb.svg",
+            "link" : "https://facebook.com",
+            "name" : "Facebook"
+        },
+        {
+            "image" : "./assets/icons/ph.svg",
+            "link" : "tel:+928389723879",
+            "name" : "Llamada"
+        },
+        {
+            "image" : "./assets/icons/wa.svg",
+            "link" : "tel:+928389723879",
+            "name" : "Whatsapp"
+        },
+        {
+            "image" : "./assets/icons/mj.svg",
+            "link" : "tel:+928389723879",
+            "name" : "Mensaje"
+        },
+        {
+            "image" : "./assets/icons/sp.svg",
+            "link" : "https://snapchat.com",
+            "name" : "Snapchat"
+        },
+        {
+            "image" : "./assets/icons/tt.svg",
+            "link" : "https://tiktok.com",
+            "name" : "TikTok"
+        },
+        {
+            "image" : "./assets/icons/ml.svg",
+            "link" : "mailto:something@somethign.com",
+            "name" : "Correo"
+        },
+        {
+            "image" : "./assets/icons/tw.svg",
+            "link" : "https://twitter.com",
+            "name" : "Twitter"
+        },
+        {
+            "image" : "./assets/icons/sf.svg",
+            "link" : "https://tiktok.com",
+            "name" : "Safari"
+        },
+        {
+            "image" : "./assets/icons/st.svg",
+            "link" : "https://spotify.com",
+            "name" : "Spotify"
+        },
+        {
+            "image" : "./assets/icons/gm.svg",
+            "link" : "https://www.google.com/maps",
+            "name" : "Dirección"
+        },
+        {
+            "image" : "./assets/icons/th.svg",
+            "link" : "https://twicht.com",
+            "name" : "Twitch"
+        },
+        {
+            "image" : "./assets/icons/sc.svg",
+            "link" : "https://soundcloud.com",
+            "name" : "SoundCloud"
+        },
+        {
+            "image" : "./assets/icons/cl.svg",
+            "link" : "https://calendly.com",
+            "name" : "Calendly"
+        },
+        {
+            "image" : "./assets/icons/pc.svg",
+            "link" : "https://podcasts.com",
+            "name" : "Podcast"
+        },
+        {
+            "image" : "./assets/icons/li.svg",
+            "link" : "https://google.com",
+            "name" : "Link"
+        },
+        {
+            "image" : "./assets/icons/ct.svg",
+            "link" : "https://google.com",
+            "name" : "Contacto"
+        },
+        {
+            "image" : "./assets/icons/tl.svg",
+            "link" : "https://telegram.com",
+            "name" : "Telegram"
+        },
+        {
+            "image" : "./assets/icons/of.svg",
+            "link" : "https://onlyfans.com",
+            "name" : "OnlyFans"
+        },
+        {
+            "image" : "./assets/icons/fi.svg",
+            "link" : "https://google.com",
+            "name" : "Archivo"
+        },
+        {
+            "image" : "./assets/icons/wc.svg",
+            "link" : "https://wechat.com",
+            "name" : "WeChat"
+        },
+        {
+            "image" : "./assets/icons/ap.svg",
+            "link" : "https://gogle.com",
+            "name" : "App"
+        },
+        {
+            "image" : "./assets/icons/pt.svg",
+            "link" : "https://pinterest.com",
+            "name" : "Pinterest"
+        },
+        {
+            "image" : "./assets/icons/pp.svg",
+            "link" : "https://paypal.com",
+            "name" : "PayPal"
+        },
+        {
+            "image" : "./assets/icons/vm.svg",
+            "link" : "https://venmo.com",
+            "name" : "Venmo"
+        },
+        {
+            "image" : "./assets/icons/lk.svg",
+            "link" : "https://linktree.com",
+            "name" : "LinkTree"
+        },
+        {
+            "image" : "./assets/icons/dc.svg",
+            "link" : "https://discord.com",
+            "name" : "Discord"
+        },
+        {
+            "image" : "./assets/icons/ft.svg",
+            "link" : "https://google.com",
+            "name" : "Facetime"
+        }
+    ]
+}
