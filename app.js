@@ -1,12 +1,10 @@
-import data from "./test-data.json" assert { type: "json" };
-
 var loader = document.getElementById("loader-container");
 
-window.addEventListener("load", function(){
+window.addEventListener("load", function () {
   loader.style.display = "none";
 });
 
-function appendData(data){
+async function appendData() {
   var mainContainer = document.getElementById("myData");
   for (var i = 0; i < data.length; i++) {
     var div = document.createElement("div");
@@ -26,5 +24,6 @@ function appendData(data){
     );
     mainContainer.appendChild(div);
   }
-};
-appendData(data.data);
+}
+
+appendData();

@@ -1,5 +1,4 @@
-{
-  "data": [
+var data = [
         {
             "image" : "./assets/icons/ig.svg",
             "link" : "https://instagram.com",
@@ -151,4 +150,3 @@
             "name" : "Facetime"
         }
     ]
-}
