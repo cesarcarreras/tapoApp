@@ -46,7 +46,7 @@ body {
   width: 380px;
   height: 200px;
   border-radius: 15px;
-  padding-top: 15px;
+  padding: 7% 2% 2% 2%;
 }
 
 .cover-img {
@@ -55,7 +55,7 @@ body {
   border-radius: 15px;
 }
 
-.pp {
+.profile-pic {
   position: absolute;
   border-radius: 50%;
   width: 193px;
@@ -108,7 +108,7 @@ body {
 }
 
 .content-profile .content-details .actionBtns {
-  margin: -70px -10px 40px -10px;
+  margin: -70px 0px 40px 0px;
   display: flex;
   justify-content: space-between;
 }
