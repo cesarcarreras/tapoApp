@@ -89,7 +89,7 @@ body {
 }
 
 .content-profile {
-  padding-top: 40%;
+  padding: 40% 10px 0 10px ;
   width: 100%;
   height: 100%;
   display: flex;
@@ -97,7 +97,7 @@ body {
 }
 
 .content-profile .content-details {
-  padding: 10px 30px 10px 30px;
+  padding: 10px 35px 10px 35px;
   text-align: center;
   width: 100%;
 }
