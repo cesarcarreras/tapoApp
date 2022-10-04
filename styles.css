@@ -45,6 +45,7 @@ body {
   height: 53px;
   border-radius: 50%;
   margin: 10% 70% 0 0;
+  background: #fff;
 }
 
 .logo-img {
@@ -52,6 +53,8 @@ body {
   width: 100%;
   height: 100%;
   border-radius: 50%;
+  padding: 2%;
+  border: 0.5px solid #fff;
 }
 
 .cover {
@@ -89,7 +92,7 @@ body {
 }
 
 .content-profile {
-  padding: 40% 10px 0 10px ;
+  padding: 40% 10px 0 10px;
   width: 100%;
   height: 100%;
   display: flex;
